@@ -13,25 +13,5 @@ State Management: React hooks (useState, useEffect)
 Styling: CSS (Bootstrap or custom styles)
 Storage: LocalStorage (for persistent storage)
 Installation
-To get a local copy up and running, follow these simple steps:
 
-Clone the Repository:
 
-bash
-Copy code
-git clone https://github.com/your-username/todo-app.git
-Navigate to the Project Directory:
-
-bash
-Copy code
-cd todo-app
-Install Dependencies:
-
-bash
-Copy code
-npm install
-Start the Development Server:
-
-bash
-Copy code
-npm start
